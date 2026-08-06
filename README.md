@@ -1,5 +1,3 @@
-# Mahadev-Sales-PowerBI-Dashboard
-
 # 🛒 Mahadev Ecommerce Sales Dashboard
 
 ## 📌 Project Overview
