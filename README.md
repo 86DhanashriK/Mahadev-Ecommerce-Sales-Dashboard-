@@ -1,15 +1,10 @@
 # Mahadev-Sales-PowerBI-Dashboard
+
 # 🛒 Mahadev Ecommerce Sales Dashboard
 
 ## 📌 Project Overview
 
 The **Mahadev Ecommerce Sales Dashboard** is an interactive Power BI dashboard designed to analyze ecommerce sales performance across different states, product categories, customers, payment methods, and time periods. The dashboard provides actionable insights into revenue, profit, quantity sold, and customer purchasing behavior to support data-driven business decisions.
-
----
-
-## 📊 Dashboard Preview
-
-![Mahadev Ecommerce Sales Dashboard](dashboard.png)
 
 ---
 
